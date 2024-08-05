@@ -9,3 +9,9 @@ Navigate to src > test-> java > runner, Then use the TestRunner
 Notes
 Navigate to src > test > java > features > home,featur to check the BDD full Scenario you can cnange email address from json > > File in src > test -> resources other data can be changed from test data .json file
 
+
+
+You will find in report two testcases failed 
+
+first one : because jumia implmenting Robot protection protocol  so i can't Resume testing 
+Second testcase : failed because a sortion bug .
